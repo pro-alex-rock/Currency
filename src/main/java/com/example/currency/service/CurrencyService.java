@@ -1,7 +1,6 @@
 package com.example.currency.service;
 
 
-import com.example.currency.dao.Parser;
 import com.example.currency.dto.CurrencyDto;
 import com.example.currency.model.Mapper;
 import com.example.currency.model.Pair;
